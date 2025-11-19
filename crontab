@@ -1,0 +1,6 @@
+0 1 * * * /home/HawkinsPi/write_to_drive.bash >> /home/HawkinsPi/log.txt 2>&1
+# 0 1 * * * /usr/bin/python3 /home/HawkinsPi/read_quant_aq.py >> /log.txt 2>&1
+# * * * * * /home/HawkinsPi/venv/bin/python3 /home/HawkinsPi/text_to_csv.py
+# * * * * * /home/HawkinsPi/venv/bin/python3 /home/HawkinsPi/firebase/write_to_firebase.py
+# * * * * * /home/HawkinsPi/clear_buffer.bash
+* * * * * /home/HawkinsPi/convert_and_backup.bash

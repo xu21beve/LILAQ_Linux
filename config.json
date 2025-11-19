@@ -1,0 +1,18 @@
+{
+    "data-dir": "/home/HawkinsPi",
+    "sources": {
+        "met":        {"timezone": "local",
+                       "path": "",
+                       "glob": "metData"},
+        "acsm":       {"timezone": "utc",
+                       "path": "acsm",
+                       "glob": "*.csv"},
+        "quant-aq":   {"timezone": "utc",
+                       "path": "quant-aq",
+                       "api": "https://api.quant-aq.com/v1",
+                       "api-key": "1YRKUDYXGHR5VUPV8L60AAL7",
+                       "glob": "*.csv",
+                       "adjust-to": "center",
+                       "extension": ".csv"
+        }
+    }
