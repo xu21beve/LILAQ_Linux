@@ -1,5 +1,5 @@
 {
-    "data-dir": "/home/HawkinsPi",
+    "data-dir": "/home/aerosol/Documents/Quant-AQ/data",
     "sources": {
         "met":        {"timezone": "local",
                        "path": "",
@@ -13,6 +13,6 @@
                        "api-key": "1YRKUDYXGHR5VUPV8L60AAL7",
                        "glob": "*.csv",
                        "adjust-to": "center",
-                       "extension": ".csv"
-        }
+                       "extension": ".csv"}
     }
+}

@@ -5,7 +5,7 @@ import sys
 import csv
 import os
 
-config = "/home/HawkinsPi/config.json"
+config = "/home/aerosol/Documents/Quant-AQ/config.json"
 start_day = date.today() - timedelta(days=1)
 end_day = date.today() - timedelta(days=1) # start date = end date to get 1 day's worth of data
 #config = "../../config/summer-2024.json"
@@ -85,14 +85,15 @@ def get_all_data():
         combfname = os.path.join(data_dir, f'{device_id}-combined.csv')
         indfname = os.path.join(data_dir, f'{device_id}.csv')
 
+        # Removing Firebase writing for now, since it's an API call and can be accessed online
         # Write to daily files (for Firebase efficient upload)
-        with open(indfname, 'w', newline='') as csvfile:
-            writer = csv.writer(csvfile)
-            for row, raw_row in zip(data_gen, raw_data_gen):
-                writer.writerow(row + raw_row)
+        # with open(indfname, 'w', newline='') as csvfile:
+        #     writer = csv.writer(csvfile)
+        #     for row, raw_row in zip(data_gen, raw_data_gen):
+        #         writer.writerow(row + raw_row)
 
         # Write to aggregated files (for Google Drive long-term storage)
-        with open(fname, 'w', newline='') as csvfile:
+        with open(combfname, 'w', newline='') as csvfile:
             writer = csv.writer(csvfile)
             for row, raw_row in zip(data_gen, raw_data_gen):
                 writer.writerow(row + raw_row)
