@@ -1,0 +1,1120 @@
+[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\Time_Series_20260310.txt'
+[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260324.txt'
+[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260324.txt'
+2026032415:28:13'str' object has no attribute 'write'
+2026032415:29:22'str' object has no attribute 'write'
+2026032415:31:32'str' object has no attribute 'write'
+2026032415:32:27'str' object has no attribute 'write'
+2026032415:33:26[Errno 2] No such file or directory: 'C:\\ACSM\\ACSMData\\ScanData\\SavedGraphData\\data\\Time_Series_20260324.txt'
+2026032415:34:27'str' object has no attribute 'write'
+2026032415:34:47'str' object has no attribute 'write'
+2026032415:37:01'str' object has no attribute 'write'
+2026032415:37:07'str' object has no attribute 'write'
+2026032415:37:49'str' object has no attribute 'write'
+2026032415:38:32'str' object has no attribute 'write'
+2026032415:39:15cannot access local variable 'line' where it is not associated with a value
+2026032415:41:27'str' object has no attribute 'write'
+2026032415:42:58'str' object has no attribute 'write'
+2026032415:43:40'str' object has no attribute 'write'
+2026032415:44:07'str' object has no attribute 'write'
+2026032415:46:26'str' object has no attribute 'write'
+2026032415:47:01'str' object has no attribute 'write'
+2026032415:47:35'str' object has no attribute 'write'
+2026032415:47:43'str' object has no attribute 'write'
+2026032415:54:55'Timestamp'
+2026032415:59:26'Timestamp'
+2026032416:00:10name 'os' is not defined
+2026032416:00:39name 'os' is not defined
+2026032416:01:33name 'os' is not defined
+2026032416:01:53name 'os' is not defined
+2026032416:02:36name 'os' is not defined
+2026032416:03:30not readable
+2026032416:04:11not readable
+2026032416:04:21not readable
+2026032416:04:25not readable
+2026032416:05:10not writable
+2026032416:05:36not readable
+2026032416:05:46not readable
+2026032416:07:01name 'os' is not defined
+2026032416:09:19No columns to parse from file
+2026032416:09:56name 'false' is not defined
+2026032416:13:49'Timestamp'
+2026032416:14:55'Timestamp'
+2026032416:19:23No columns to parse from file
+2026032416:20:36No columns to parse from file
+2026032416:21:22print() got an unexpected keyword argument 'out'
+2026032416:21:54'str' object has no attribute 'write'
+2026032416:26:11No columns to parse from file
+2026032500:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032500:11:13No columns to parse from file
+2026032500:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032500:26:13No columns to parse from file
+2026032500:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032500:41:13No columns to parse from file
+2026032500:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032500:56:14No columns to parse from file
+2026032501:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032501:11:14No columns to parse from file
+2026032501:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032501:26:15No columns to parse from file
+2026032501:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032501:41:14No columns to parse from file
+2026032501:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032501:56:14No columns to parse from file
+2026032502:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032502:11:14No columns to parse from file
+2026032502:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032502:26:15No columns to parse from file
+2026032502:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032502:41:13No columns to parse from file
+2026032502:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032502:56:14No columns to parse from file
+2026032503:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032503:11:14No columns to parse from file
+2026032503:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032503:26:14No columns to parse from file
+2026032503:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032503:41:14No columns to parse from file
+2026032503:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032503:56:14No columns to parse from file
+2026032504:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032504:11:18No columns to parse from file
+2026032504:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032504:26:14No columns to parse from file
+2026032504:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032504:41:14No columns to parse from file
+2026032504:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032504:56:14No columns to parse from file
+2026032505:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032505:11:16No columns to parse from file
+2026032505:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032505:26:13No columns to parse from file
+2026032505:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032505:41:13No columns to parse from file
+2026032505:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032505:56:13No columns to parse from file
+2026032506:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032506:11:13No columns to parse from file
+2026032506:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032506:26:13No columns to parse from file
+2026032506:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032506:41:14No columns to parse from file
+2026032506:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032506:56:14No columns to parse from file
+2026032507:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032507:11:14No columns to parse from file
+2026032507:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032507:26:15No columns to parse from file
+2026032507:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032507:41:15No columns to parse from file
+2026032507:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032507:56:15No columns to parse from file
+2026032508:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032508:11:14No columns to parse from file
+2026032508:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032508:26:14No columns to parse from file
+2026032508:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032508:41:14No columns to parse from file
+2026032508:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032508:56:14No columns to parse from file
+2026032509:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032509:11:15No columns to parse from file
+2026032509:21:03[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032509:26:14No columns to parse from file
+2026032509:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032509:41:17No columns to parse from file
+2026032509:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032509:56:14No columns to parse from file
+2026032510:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032510:11:14No columns to parse from file
+2026032510:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032510:26:15No columns to parse from file
+2026032510:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032510:41:15No columns to parse from file
+2026032510:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032510:56:14No columns to parse from file
+2026032511:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032511:11:14No columns to parse from file
+2026032511:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032511:26:14No columns to parse from file
+2026032511:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032511:41:14No columns to parse from file
+2026032511:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032511:56:14No columns to parse from file
+2026032512:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032512:11:17No columns to parse from file
+2026032512:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032512:26:14No columns to parse from file
+2026032512:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032512:41:14No columns to parse from file
+2026032512:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032512:56:14No columns to parse from file
+2026032513:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032513:11:14No columns to parse from file
+2026032513:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032513:26:14No columns to parse from file
+2026032513:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032513:41:13No columns to parse from file
+2026032513:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032513:56:14No columns to parse from file
+2026032514:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032514:11:13No columns to parse from file
+2026032514:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032514:26:14No columns to parse from file
+2026032514:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032514:41:16No columns to parse from file
+2026032514:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032514:56:50No columns to parse from file
+2026032515:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032515:11:14No columns to parse from file
+2026032515:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032515:26:16No columns to parse from file
+2026032515:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032515:41:14No columns to parse from file
+2026032515:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032515:56:13No columns to parse from file
+2026032516:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032516:11:13No columns to parse from file
+2026032516:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032516:26:14No columns to parse from file
+2026032516:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032516:41:13No columns to parse from file
+2026032516:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032516:56:14No columns to parse from file
+2026032517:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032517:11:14No columns to parse from file
+2026032517:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032517:26:14No columns to parse from file
+2026032517:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032517:41:13No columns to parse from file
+2026032517:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032517:56:14No columns to parse from file
+2026032518:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032518:11:15No columns to parse from file
+2026032518:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032518:26:13No columns to parse from file
+2026032518:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032518:41:14No columns to parse from file
+2026032518:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032518:56:13No columns to parse from file
+2026032519:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032519:11:14No columns to parse from file
+2026032519:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032519:26:14No columns to parse from file
+2026032519:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032519:41:14No columns to parse from file
+2026032519:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032519:56:15No columns to parse from file
+2026032520:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032520:11:14No columns to parse from file
+2026032520:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032520:26:14No columns to parse from file
+2026032520:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032520:42:42No columns to parse from file
+2026032520:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032520:56:14No columns to parse from file
+2026032521:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032521:11:13No columns to parse from file
+2026032521:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032521:26:13No columns to parse from file
+2026032521:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032521:41:14No columns to parse from file
+2026032521:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032521:56:13No columns to parse from file
+2026032522:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032522:11:14No columns to parse from file
+2026032522:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032522:26:17No columns to parse from file
+2026032522:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032522:41:19No columns to parse from file
+2026032522:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032522:56:14No columns to parse from file
+2026032523:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032523:11:14No columns to parse from file
+2026032523:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032523:26:15No columns to parse from file
+2026032523:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032523:41:14No columns to parse from file
+2026032523:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260325.txt'
+2026032523:56:13No columns to parse from file
+2026032600:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032600:11:13No columns to parse from file
+2026032600:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032600:26:13No columns to parse from file
+2026032600:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032600:41:14No columns to parse from file
+2026032600:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032600:56:14No columns to parse from file
+2026032601:06:04[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032601:11:14No columns to parse from file
+2026032601:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032601:26:17No columns to parse from file
+2026032601:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032601:41:14No columns to parse from file
+2026032601:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032601:56:14No columns to parse from file
+2026032602:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032602:11:15No columns to parse from file
+2026032602:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032602:26:14No columns to parse from file
+2026032602:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032602:41:14No columns to parse from file
+2026032602:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032602:56:13No columns to parse from file
+2026032603:06:03[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032603:11:25No columns to parse from file
+2026032603:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032603:26:13No columns to parse from file
+2026032603:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032603:41:14No columns to parse from file
+2026032603:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032603:56:14No columns to parse from file
+2026032604:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032604:11:15No columns to parse from file
+2026032604:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032604:26:14No columns to parse from file
+2026032604:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032604:41:15No columns to parse from file
+2026032604:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032604:56:15No columns to parse from file
+2026032605:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032605:11:13No columns to parse from file
+2026032605:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032605:26:14No columns to parse from file
+2026032605:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032605:41:14No columns to parse from file
+2026032605:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032605:56:13No columns to parse from file
+2026032606:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032606:11:14No columns to parse from file
+2026032606:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032606:26:14No columns to parse from file
+2026032606:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032606:41:14No columns to parse from file
+2026032606:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032606:56:14No columns to parse from file
+2026032607:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032607:11:15No columns to parse from file
+2026032607:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032607:26:14No columns to parse from file
+2026032607:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032607:41:14No columns to parse from file
+2026032607:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032607:56:13No columns to parse from file
+2026032608:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032608:11:13No columns to parse from file
+2026032608:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032608:26:13No columns to parse from file
+2026032608:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032608:41:31No columns to parse from file
+2026032608:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032608:56:21No columns to parse from file
+2026032609:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032609:11:15No columns to parse from file
+2026032609:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032609:26:14No columns to parse from file
+2026032609:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032609:41:14No columns to parse from file
+2026032609:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032609:56:14No columns to parse from file
+2026032610:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032610:11:13No columns to parse from file
+2026032610:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032610:26:14No columns to parse from file
+2026032610:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032610:41:13No columns to parse from file
+2026032610:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032610:56:13No columns to parse from file
+2026032611:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032611:11:14No columns to parse from file
+2026032611:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032611:26:14No columns to parse from file
+2026032611:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032611:41:14No columns to parse from file
+2026032611:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032611:56:13No columns to parse from file
+2026032612:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032612:11:13No columns to parse from file
+2026032612:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032612:26:15No columns to parse from file
+2026032612:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032612:41:14No columns to parse from file
+2026032612:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032612:56:13No columns to parse from file
+2026032613:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032613:11:13No columns to parse from file
+2026032613:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032613:26:14No columns to parse from file
+2026032613:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032613:41:14No columns to parse from file
+2026032613:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032613:56:19No columns to parse from file
+2026032614:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032614:11:14No columns to parse from file
+2026032614:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032614:26:14No columns to parse from file
+2026032614:36:07[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032614:41:45No columns to parse from file
+2026032614:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032614:56:23No columns to parse from file
+2026032615:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032615:11:12No columns to parse from file
+2026032615:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032615:26:12No columns to parse from file
+2026032615:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032615:41:13No columns to parse from file
+2026032615:51:06[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032615:56:17No columns to parse from file
+2026032616:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032616:11:16No columns to parse from file
+2026032616:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032616:26:12No columns to parse from file
+2026032616:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032616:41:12No columns to parse from file
+2026032616:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032616:56:13No columns to parse from file
+2026032617:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032617:11:12No columns to parse from file
+2026032617:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032617:26:12No columns to parse from file
+2026032617:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032617:41:12No columns to parse from file
+2026032617:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032617:56:12No columns to parse from file
+2026032618:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032618:11:13No columns to parse from file
+2026032618:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032618:26:13No columns to parse from file
+2026032618:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032618:41:12No columns to parse from file
+2026032618:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032618:56:12No columns to parse from file
+2026032619:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032619:11:13No columns to parse from file
+2026032619:21:03[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032619:26:12No columns to parse from file
+2026032619:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032619:41:12No columns to parse from file
+2026032619:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032619:56:12No columns to parse from file
+2026032620:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032620:11:12No columns to parse from file
+2026032620:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032620:26:13No columns to parse from file
+2026032620:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032620:41:12No columns to parse from file
+2026032620:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032620:56:12No columns to parse from file
+2026032621:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032621:11:12No columns to parse from file
+2026032621:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032621:26:12No columns to parse from file
+2026032621:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032621:41:13No columns to parse from file
+2026032621:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032621:56:13No columns to parse from file
+2026032622:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032622:11:13No columns to parse from file
+2026032622:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032622:26:13No columns to parse from file
+2026032622:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032622:41:12No columns to parse from file
+2026032622:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032622:56:12No columns to parse from file
+2026032623:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032623:11:12No columns to parse from file
+2026032623:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032623:26:13No columns to parse from file
+2026032623:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032623:41:12No columns to parse from file
+2026032623:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260326.txt'
+2026032623:56:12No columns to parse from file
+2026032700:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032700:11:13No columns to parse from file
+2026032700:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032700:26:12No columns to parse from file
+2026032700:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032700:41:12No columns to parse from file
+2026032700:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032700:56:12No columns to parse from file
+2026032701:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032701:11:12No columns to parse from file
+2026032701:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032701:26:12No columns to parse from file
+2026032701:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032701:41:13No columns to parse from file
+2026032701:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032701:56:13No columns to parse from file
+2026032702:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032702:11:12No columns to parse from file
+2026032702:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032702:26:12No columns to parse from file
+2026032702:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032702:41:13No columns to parse from file
+2026032702:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032702:56:13No columns to parse from file
+2026032703:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032703:11:22No columns to parse from file
+2026032703:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032703:26:13No columns to parse from file
+2026032703:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032703:41:12No columns to parse from file
+2026032703:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032703:56:23No columns to parse from file
+2026032704:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032704:11:12No columns to parse from file
+2026032704:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032704:26:14No columns to parse from file
+2026032704:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032704:41:12No columns to parse from file
+2026032704:51:05[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032704:56:12No columns to parse from file
+2026032705:06:04[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032705:11:13No columns to parse from file
+2026032705:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032705:26:13No columns to parse from file
+2026032705:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032705:41:12No columns to parse from file
+2026032705:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032705:56:12No columns to parse from file
+2026032706:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032706:11:12No columns to parse from file
+2026032706:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032706:26:13No columns to parse from file
+2026032706:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032706:41:12No columns to parse from file
+2026032706:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032706:56:12No columns to parse from file
+2026032707:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032707:11:12No columns to parse from file
+2026032707:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032707:26:12No columns to parse from file
+2026032707:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032707:41:12No columns to parse from file
+2026032707:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032707:56:12No columns to parse from file
+2026032708:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032708:11:12No columns to parse from file
+2026032708:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032708:26:12No columns to parse from file
+2026032708:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032708:41:12No columns to parse from file
+2026032708:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032708:56:12No columns to parse from file
+2026032709:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032709:11:13No columns to parse from file
+2026032709:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032709:26:12No columns to parse from file
+2026032709:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032709:41:13No columns to parse from file
+2026032709:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032709:56:12No columns to parse from file
+2026032710:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032710:11:12No columns to parse from file
+2026032710:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032710:26:12No columns to parse from file
+2026032710:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032710:41:12No columns to parse from file
+2026032710:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032710:56:13No columns to parse from file
+2026032711:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032711:11:12No columns to parse from file
+2026032711:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032711:26:12No columns to parse from file
+2026032711:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032711:41:12No columns to parse from file
+2026032711:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032711:56:12No columns to parse from file
+2026032712:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032712:11:12No columns to parse from file
+2026032712:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032712:26:12No columns to parse from file
+2026032712:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032712:41:13No columns to parse from file
+2026032712:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032712:56:12No columns to parse from file
+2026032713:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032713:11:16No columns to parse from file
+2026032713:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032713:26:12No columns to parse from file
+2026032713:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032713:41:12No columns to parse from file
+2026032713:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032713:56:12No columns to parse from file
+2026032714:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032714:11:12No columns to parse from file
+2026032714:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032714:26:14No columns to parse from file
+2026032714:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032714:41:52No columns to parse from file
+2026032714:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032714:56:12No columns to parse from file
+2026032715:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032715:11:12No columns to parse from file
+2026032715:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032715:26:12No columns to parse from file
+2026032715:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032715:41:12No columns to parse from file
+2026032715:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032715:56:12No columns to parse from file
+2026032716:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032716:11:12No columns to parse from file
+2026032716:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032716:26:12No columns to parse from file
+2026032716:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032716:41:12No columns to parse from file
+2026032716:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032716:56:12No columns to parse from file
+2026032717:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032717:11:12No columns to parse from file
+2026032717:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032717:26:12No columns to parse from file
+2026032717:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032717:41:12No columns to parse from file
+2026032717:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032717:56:13No columns to parse from file
+2026032718:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032718:11:13No columns to parse from file
+2026032718:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032718:26:13No columns to parse from file
+2026032718:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032718:41:16No columns to parse from file
+2026032718:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032718:56:12No columns to parse from file
+2026032719:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032719:11:13No columns to parse from file
+2026032719:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032719:26:12No columns to parse from file
+2026032719:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032719:41:12No columns to parse from file
+2026032719:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032719:56:12No columns to parse from file
+2026032720:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032720:11:13No columns to parse from file
+2026032720:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032720:26:12No columns to parse from file
+2026032720:36:16[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032720:46:16No columns to parse from file
+2026032720:51:03[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032720:57:22No columns to parse from file
+2026032721:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032721:11:22No columns to parse from file
+2026032721:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032721:26:24No columns to parse from file
+2026032721:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032721:41:17No columns to parse from file
+2026032721:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032721:56:13No columns to parse from file
+2026032722:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032722:11:17No columns to parse from file
+2026032722:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032722:26:12No columns to parse from file
+2026032722:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032722:41:12No columns to parse from file
+2026032722:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032722:56:12No columns to parse from file
+2026032723:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032723:11:23No columns to parse from file
+2026032723:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032723:26:13No columns to parse from file
+2026032723:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032723:41:12No columns to parse from file
+2026032723:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260327.txt'
+2026032723:56:12No columns to parse from file
+2026032800:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032800:11:17No columns to parse from file
+2026032800:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032800:26:12No columns to parse from file
+2026032800:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032800:41:13No columns to parse from file
+2026032800:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032800:56:12No columns to parse from file
+2026032801:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032801:11:12No columns to parse from file
+2026032801:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032801:26:12No columns to parse from file
+2026032801:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032801:41:16No columns to parse from file
+2026032801:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032801:56:12No columns to parse from file
+2026032802:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032802:11:23No columns to parse from file
+2026032802:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032802:26:15No columns to parse from file
+2026032802:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032802:42:06No columns to parse from file
+2026032802:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032802:56:23No columns to parse from file
+2026032803:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032803:11:13No columns to parse from file
+2026032803:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032803:26:12No columns to parse from file
+2026032803:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032803:41:12No columns to parse from file
+2026032803:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032803:56:12No columns to parse from file
+2026032804:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032804:11:12No columns to parse from file
+2026032804:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032804:26:13No columns to parse from file
+2026032804:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032804:41:23No columns to parse from file
+2026032804:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032804:56:12No columns to parse from file
+2026032805:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032805:11:12No columns to parse from file
+2026032805:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032805:26:12No columns to parse from file
+2026032805:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032805:41:12No columns to parse from file
+2026032805:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032805:56:13No columns to parse from file
+2026032806:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032806:11:12No columns to parse from file
+2026032806:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032806:26:13No columns to parse from file
+2026032806:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032806:41:12No columns to parse from file
+2026032806:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032806:56:12No columns to parse from file
+2026032807:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032807:11:12No columns to parse from file
+2026032807:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032807:26:12No columns to parse from file
+2026032807:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032807:41:12No columns to parse from file
+2026032807:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032807:56:12No columns to parse from file
+2026032808:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032808:11:12No columns to parse from file
+2026032808:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032808:26:13No columns to parse from file
+2026032808:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032808:41:12No columns to parse from file
+2026032808:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032808:56:16No columns to parse from file
+2026032809:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032809:11:13No columns to parse from file
+2026032809:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032809:26:12No columns to parse from file
+2026032809:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032809:41:13No columns to parse from file
+2026032809:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032809:56:12No columns to parse from file
+2026032810:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032810:11:12No columns to parse from file
+2026032810:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032810:26:12No columns to parse from file
+2026032810:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032810:41:12No columns to parse from file
+2026032810:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032810:56:13No columns to parse from file
+2026032811:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032811:11:12No columns to parse from file
+2026032811:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032811:26:12No columns to parse from file
+2026032811:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032811:41:13No columns to parse from file
+2026032811:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032811:56:12No columns to parse from file
+2026032812:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032812:11:12No columns to parse from file
+2026032812:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032812:26:13No columns to parse from file
+2026032812:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032812:41:13No columns to parse from file
+2026032812:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032812:56:21No columns to parse from file
+2026032813:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032813:11:12No columns to parse from file
+2026032813:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032813:26:13No columns to parse from file
+2026032813:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032813:41:12No columns to parse from file
+2026032813:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032813:56:14No columns to parse from file
+2026032814:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032814:11:23No columns to parse from file
+2026032814:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032814:26:14No columns to parse from file
+2026032814:36:07[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032814:41:29No columns to parse from file
+2026032814:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032814:56:12No columns to parse from file
+2026032815:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032815:11:12No columns to parse from file
+2026032815:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032815:26:12No columns to parse from file
+2026032815:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032815:41:13No columns to parse from file
+2026032815:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032815:56:12No columns to parse from file
+2026032816:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032816:11:24No columns to parse from file
+2026032816:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032816:26:12No columns to parse from file
+2026032816:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032816:41:14No columns to parse from file
+2026032816:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032816:56:12No columns to parse from file
+2026032817:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032817:11:12No columns to parse from file
+2026032817:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032817:26:13No columns to parse from file
+2026032817:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032817:41:13No columns to parse from file
+2026032817:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032817:56:13No columns to parse from file
+2026032818:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032818:11:12No columns to parse from file
+2026032818:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032818:26:13No columns to parse from file
+2026032818:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032818:41:14No columns to parse from file
+2026032818:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032818:56:12No columns to parse from file
+2026032819:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032819:11:13No columns to parse from file
+2026032819:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032819:26:12No columns to parse from file
+2026032819:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032819:41:21No columns to parse from file
+2026032819:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032819:56:20No columns to parse from file
+2026032820:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032820:11:23No columns to parse from file
+2026032820:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032820:26:23No columns to parse from file
+2026032820:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032820:41:12No columns to parse from file
+2026032820:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032820:56:15No columns to parse from file
+2026032821:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032821:11:21No columns to parse from file
+2026032821:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032821:26:13No columns to parse from file
+2026032821:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032821:41:13No columns to parse from file
+2026032821:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032821:56:21No columns to parse from file
+2026032822:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032822:11:24No columns to parse from file
+2026032822:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032822:26:20No columns to parse from file
+2026032822:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032822:41:23No columns to parse from file
+2026032822:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032822:56:24No columns to parse from file
+2026032823:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032823:11:27No columns to parse from file
+2026032823:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032823:26:30No columns to parse from file
+2026032823:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032823:41:32No columns to parse from file
+2026032823:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260328.txt'
+2026032823:56:23No columns to parse from file
+2026032900:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032900:11:35No columns to parse from file
+2026032900:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032900:26:31No columns to parse from file
+2026032900:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032900:41:31No columns to parse from file
+2026032900:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032900:56:31No columns to parse from file
+2026032901:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032901:11:26No columns to parse from file
+2026032901:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032901:26:30No columns to parse from file
+2026032901:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032901:41:24No columns to parse from file
+2026032901:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032901:56:23No columns to parse from file
+2026032902:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032902:11:23No columns to parse from file
+2026032902:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032902:26:23No columns to parse from file
+2026032902:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032902:41:24No columns to parse from file
+2026032902:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032902:56:32No columns to parse from file
+2026032903:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032903:11:15No columns to parse from file
+2026032903:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032903:26:26No columns to parse from file
+2026032903:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032903:41:12No columns to parse from file
+2026032903:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032903:56:14No columns to parse from file
+2026032904:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032904:11:13No columns to parse from file
+2026032904:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032904:26:12No columns to parse from file
+2026032904:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032904:41:12No columns to parse from file
+2026032904:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032904:56:12No columns to parse from file
+2026032905:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032905:11:12No columns to parse from file
+2026032905:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032905:26:12No columns to parse from file
+2026032905:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032905:41:12No columns to parse from file
+2026032905:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032905:56:12No columns to parse from file
+2026032906:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032906:11:13No columns to parse from file
+2026032906:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032906:26:14No columns to parse from file
+2026032906:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032906:41:12No columns to parse from file
+2026032906:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032906:56:12No columns to parse from file
+2026032907:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032907:11:14No columns to parse from file
+2026032907:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032907:26:14No columns to parse from file
+2026032907:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032907:41:32No columns to parse from file
+2026032907:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032907:56:16No columns to parse from file
+2026032908:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032908:11:15No columns to parse from file
+2026032908:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032908:26:27No columns to parse from file
+2026032908:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032908:41:12No columns to parse from file
+2026032908:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032908:56:14No columns to parse from file
+2026032909:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032909:11:13No columns to parse from file
+2026032909:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032909:26:13No columns to parse from file
+2026032909:36:04[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032909:41:12No columns to parse from file
+2026032909:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032909:56:12No columns to parse from file
+2026032910:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032910:11:12No columns to parse from file
+2026032910:21:03[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032910:26:12No columns to parse from file
+2026032910:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032910:41:13No columns to parse from file
+2026032910:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032910:56:13No columns to parse from file
+2026032911:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032911:11:12No columns to parse from file
+2026032911:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032911:26:12No columns to parse from file
+2026032911:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032911:41:12No columns to parse from file
+2026032911:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032911:56:12No columns to parse from file
+2026032912:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032912:11:15No columns to parse from file
+2026032912:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032912:26:24No columns to parse from file
+2026032912:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032912:41:13No columns to parse from file
+2026032912:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032912:56:13No columns to parse from file
+2026032913:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032913:11:14No columns to parse from file
+2026032913:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032913:26:14No columns to parse from file
+2026032913:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032913:41:12No columns to parse from file
+2026032913:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032913:56:12No columns to parse from file
+2026032914:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032914:11:14No columns to parse from file
+2026032914:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032914:26:12No columns to parse from file
+2026032914:36:07[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032914:41:31No columns to parse from file
+2026032914:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032914:56:24No columns to parse from file
+2026032915:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032915:11:12No columns to parse from file
+2026032915:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032915:26:13No columns to parse from file
+2026032915:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032915:41:12No columns to parse from file
+2026032915:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032915:56:23No columns to parse from file
+2026032916:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032916:11:23No columns to parse from file
+2026032916:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032916:26:25No columns to parse from file
+2026032916:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032916:41:22No columns to parse from file
+2026032916:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032916:56:12No columns to parse from file
+2026032917:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032917:11:12No columns to parse from file
+2026032917:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032917:26:12No columns to parse from file
+2026032917:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032917:41:16No columns to parse from file
+2026032917:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032917:56:12No columns to parse from file
+2026032918:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032918:11:12No columns to parse from file
+2026032918:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032918:26:17No columns to parse from file
+2026032918:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032918:41:19No columns to parse from file
+2026032918:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032918:56:12No columns to parse from file
+2026032919:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032919:11:15No columns to parse from file
+2026032919:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032919:26:23No columns to parse from file
+2026032919:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032919:41:12No columns to parse from file
+2026032919:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032919:56:14No columns to parse from file
+2026032920:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032920:11:23No columns to parse from file
+2026032920:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032920:26:28No columns to parse from file
+2026032920:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032920:41:23No columns to parse from file
+2026032920:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032920:56:25No columns to parse from file
+2026032921:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032921:11:22No columns to parse from file
+2026032921:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032921:26:22No columns to parse from file
+2026032921:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032921:41:22No columns to parse from file
+2026032921:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032921:56:22No columns to parse from file
+2026032922:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032922:11:24No columns to parse from file
+2026032922:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032922:26:23No columns to parse from file
+2026032922:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032922:41:22No columns to parse from file
+2026032922:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032922:56:20No columns to parse from file
+2026032923:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032923:11:16No columns to parse from file
+2026032923:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032923:26:24No columns to parse from file
+2026032923:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032923:41:22No columns to parse from file
+2026032923:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260329.txt'
+2026032923:56:22No columns to parse from file
+2026033000:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033000:11:22No columns to parse from file
+2026033000:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033000:26:22No columns to parse from file
+2026033000:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033000:41:25No columns to parse from file
+2026033000:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033000:56:22No columns to parse from file
+2026033001:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033001:11:23No columns to parse from file
+2026033001:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033001:26:22No columns to parse from file
+2026033001:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033001:41:22No columns to parse from file
+2026033001:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033001:56:24No columns to parse from file
+2026033002:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033002:11:19No columns to parse from file
+2026033002:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033002:26:23No columns to parse from file
+2026033002:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033002:41:24No columns to parse from file
+2026033002:51:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033002:56:23No columns to parse from file
+2026033003:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033003:11:25No columns to parse from file
+2026033003:21:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033003:26:24No columns to parse from file
+2026033003:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033003:41:22No columns to parse from file
+2026033003:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033003:56:12No columns to parse from file
+2026033004:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033004:11:25No columns to parse from file
+2026033004:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033004:26:12No columns to parse from file
+2026033004:36:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033004:41:12No columns to parse from file
+2026033004:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033004:56:14No columns to parse from file
+2026033005:06:01[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033005:11:22No columns to parse from file
+2026033005:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033005:26:23No columns to parse from file
+2026033005:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033005:41:22No columns to parse from file
+2026033005:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033005:56:23No columns to parse from file
+2026033006:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033006:11:22No columns to parse from file
+2026033006:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033006:26:22No columns to parse from file
+2026033006:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033006:41:25No columns to parse from file
+2026033006:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033006:56:23No columns to parse from file
+2026033007:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033007:11:22No columns to parse from file
+2026033007:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033007:26:22No columns to parse from file
+2026033007:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033007:41:24No columns to parse from file
+2026033007:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033007:56:17No columns to parse from file
+2026033008:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033008:11:23No columns to parse from file
+2026033008:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033008:26:22No columns to parse from file
+2026033008:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033008:41:22No columns to parse from file
+2026033008:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033008:56:24No columns to parse from file
+2026033009:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033009:11:23No columns to parse from file
+2026033009:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033009:26:23No columns to parse from file
+2026033009:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033009:41:22No columns to parse from file
+2026033009:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033009:56:23No columns to parse from file
+2026033010:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033010:11:24No columns to parse from file
+2026033010:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033010:26:22No columns to parse from file
+2026033010:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033010:41:22No columns to parse from file
+2026033010:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033010:56:24No columns to parse from file
+2026033011:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033011:11:25No columns to parse from file
+2026033011:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033011:26:22No columns to parse from file
+2026033011:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033011:41:13No columns to parse from file
+2026033011:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033011:56:12No columns to parse from file
+2026033012:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033012:11:21No columns to parse from file
+2026033012:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033012:26:19No columns to parse from file
+2026033012:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033012:41:14No columns to parse from file
+2026033012:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033012:56:23No columns to parse from file
+2026033013:06:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033013:11:17No columns to parse from file
+2026033013:21:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033013:26:17No columns to parse from file
+2026033013:36:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033013:41:23No columns to parse from file
+2026033013:51:02[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
+2026033013:56:13No columns to parse from file
+2026033014:06:06[Errno 2] No such file or directory: 'C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\data\\Time_Series_20260330.txt'
