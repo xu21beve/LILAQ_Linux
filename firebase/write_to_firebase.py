@@ -6,7 +6,7 @@ from datetime import datetime
 # Make sure authentication is set
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\acsm.ACSMC-087\\Documents\\GitHub\\firebase\\serviceAccountKey.json"
 
-# Firestore project and database
+# Firestore project and database (I know, not very aptly named.)
 project_id = "lilaqmetdata"
 database_id = "lilaq-data"
 
